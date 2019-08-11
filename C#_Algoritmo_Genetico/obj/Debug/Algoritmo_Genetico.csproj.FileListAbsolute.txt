@@ -1,0 +1,7 @@
+C:\Users\Edson Frota\source\repos\Algoritmo_Genetico\bin\Debug\Algoritmo_Genetico.exe.config
+C:\Users\Edson Frota\source\repos\Algoritmo_Genetico\bin\Debug\Algoritmo_Genetico.exe
+C:\Users\Edson Frota\source\repos\Algoritmo_Genetico\bin\Debug\Algoritmo_Genetico.pdb
+C:\Users\Edson Frota\source\repos\Algoritmo_Genetico\obj\Debug\Algoritmo_Genetico.csprojAssemblyReference.cache
+C:\Users\Edson Frota\source\repos\Algoritmo_Genetico\obj\Debug\Algoritmo_Genetico.csproj.CoreCompileInputs.cache
+C:\Users\Edson Frota\source\repos\Algoritmo_Genetico\obj\Debug\Algoritmo_Genetico.exe
+C:\Users\Edson Frota\source\repos\Algoritmo_Genetico\obj\Debug\Algoritmo_Genetico.pdb
